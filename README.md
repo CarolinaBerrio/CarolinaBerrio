@@ -4,7 +4,7 @@
 ### Siempre Aprendiendo.
 
 <ul style="background-color: #FFFFFF;">
-<li>Apasionado/a por el aprendizaje de la programación 💻: Estudiante dedicadoa en busca de conocimientos y crecimiento en el campo de la programación. ¡Siempre buscando nuevos desafíos y oportunidades para expandir mis habilidades!</li>
+<li>Apasionado/a por el aprendizaje de la programación 💻: Estudiante dedicada en busca de conocimientos y crecimiento en el campo de la programación. ¡Siempre buscando nuevos desafíos y oportunidades para expandir mis habilidades!</li>
 </ul>
 
 <ul>
