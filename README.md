@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**CarolinaBerrio/CarolinaBerrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola👋, Mi nombre es Carolina Berrio.
 
-Here are some ideas to get you started:
+### Siempre Aprendiendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul style="background-color: #FFFFFF;">
+<li>Apasionado/a por el aprendizaje de la programación 💻: Estudiante dedicado/a en busca de conocimientos y crecimiento en el campo de la programación. ¡Siempre buscando nuevos desafíos y oportunidades para expandir mis habilidades!</li>
+</ul>
+
+<ul>
+<li>En constante evolución como desarrolladora: Entusiasta de programación✨, enfocada en aprender nuevas tecnologías y perfeccionar mis habilidades de desarrollo.</li>
+<li><strong>¡Lista para enfrentar cualquier desafío!</strong></li>
+</ul>
+
+---
+
+##### 💖 
+
+<div>
+  <img src="https://avataaars.io/?avatarStyle=Circle&topType=LongHairBigHair&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=PastelRed&eyeType=Happy&eyebrowType=Default&mouthType=Smile&skinColor=Light" alt="Avatar" width="200" align="right">
+
+```python
+obstacles = True
+enthusiasm = True
+
+growth = obstacles + enthusiasm
+
+print(growth)
+
